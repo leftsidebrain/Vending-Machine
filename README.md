@@ -35,7 +35,7 @@ Aplikasi ini memungkinkan pengguna untuk memasukkan uang, membeli produk, dan me
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/username/vending-machine.git
+git clone https://github.com/leftsidebrain/Vending-Machine.git
 
 cd vending-machine
 ```
