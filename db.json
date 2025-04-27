@@ -1,0 +1,55 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "name": "Coklat",
+      "price": 8000,
+      "stock": 7,
+      "image": "https://chocolatemonggo.com/wp-content/uploads/2022/11/Chocolate-Monggo-Bar-Dark-Cokelat-Hitam-58-Coklat.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Espresso",
+      "price": 10000,
+      "stock": 5,
+      "image": "https://www.twobears.ca/cdn/shop/files/EspressoM_1.png?v=1742309040"
+    },
+    {
+      "id": "4",
+      "name": "Latte",
+      "price": 12000,
+      "stock": 5,
+      "image": "https://www.commongrounds.co.id/953-superlarge_default/common-grounds-canned-coffee-vanilla-latte.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Mocca",
+      "price": 13000,
+      "stock": 4,
+      "image": "https://www.instacart.com/image-server/1864x1864/www.instacart.com/assets/domains/product-image/file/large_94c6f1e1-4321-4516-883f-486b942749d2.png"
+    },
+    {
+      "id": "42d7",
+      "image": "https://nawon.com.vn/wp-content/uploads/2020/11/Mango-Juice-Drink-is-a-healthy-natural-product-500ml-can-Brand-Nawon.jpg",
+      "stock": 4,
+      "price": 14000,
+      "name": "Manggo Juice"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "66bf",
+      "productId": "5",
+      "productName": "Mocca",
+      "price": 13000,
+      "date": "2025-04-26T13:13:04.056Z"
+    },
+    {
+      "id": "242a",
+      "productId": "2",
+      "productName": "Coklat",
+      "price": 8000,
+      "date": "2025-04-27T09:18:42.900Z"
+    }
+  ]
+}
