@@ -66,14 +66,6 @@ const TransactionHistory = () => {
           </table>
         </div>
       )}
-
-      <div className="mt-8 text-left">
-        <button className="bg-blue-500 hover:bg-blue-600 text-white px-4 py-2 rounded w-full md:w-[150px]">
-          <Link href="/" className="text-white hover:underline">
-            Back
-          </Link>
-        </button>
-      </div>
     </main>
   );
 };
