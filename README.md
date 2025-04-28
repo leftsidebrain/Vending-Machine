@@ -54,3 +54,21 @@ npm run dev
 
 - **Open Link Below**
 - [localhost:3001](http://localhost:3001/)
+
+## 📸 Screenshots
+
+### Home Page
+
+![Home Page](./ss/home.png)
+
+### Transaction History
+
+![Transaction History](./ss/history.png)
+
+### Admin Page
+
+![Admin Page](./ss/admin-panel.png)
+
+### Edit and Create
+
+![Admin Page](./ss/edit.png)
